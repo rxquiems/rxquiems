@@ -5,11 +5,17 @@
 
 
 
-<p align="center"> <img width="35" height="35" alt="1000023303" src="https://github.com/user-attachments/assets/9dc145ee-6a47-45da-bae1-137ff7b48401" />
+<p align="center"> 𐔌 .   &emsp;𝐚𝐬𝐭𝐫𝐢𝐝 &emsp;/&emsp;𝐨𝐥𝐢𝐯𝐢𝐚&emsp; ₊ ꒱
 
+&emsp;
+&emsp;
+<p align="center">editing
+  
+&emsp;
+&emsp;
 
-
-
+<p align="center">
+<a href=https://rentry.co/rxquiem>rentry</a>&emsp;&emsp;&emsp;<a href=https://vxlenfield.atabook.org/>ata</a>&emsp;&emsp;&emsp;<a href=https://harrymxson.straw.page>straw</a>
 
 <p align="center" dir="auto">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ellerzbngs5de3pe7q6zgz5zny&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=4d3636&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" style="max-width: 100%;"></a>
