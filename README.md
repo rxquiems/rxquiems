@@ -2,7 +2,7 @@
   <img width="540" height="311" alt="1000023277" src="https://github.com/user-attachments/assets/836b31a4-fb87-4dcf-af3e-22443b4261a5" />
 </p>
 
-
+&emsp;
 
 
 <p align="center"> 𐔌 .   &emsp;𝐚𝐬𝐭𝐫𝐢𝐝 &emsp;/&emsp;𝐨𝐥𝐢𝐯𝐢𝐚&emsp; ₊ ꒱
