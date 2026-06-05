@@ -1,6 +1,8 @@
 <p align="center">──────────── ⋆⋅ <img width="35" height="20" alt="1000023328" src="https://github.com/user-attachments/assets/a5e83dd4-ac32-48fd-82fe-d9cad36f185c" />
  ⋅⋆ ────────────
- <p align="center">editing
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rxquiems&style=flat&color=2c2623&label=♱&abbreviated=true">
+</a>
 
 <p align="center">
   <img width="540" height="311" alt="1000023277" src="https://github.com/user-attachments/assets/836b31a4-fb87-4dcf-af3e-22443b4261a5" />
