@@ -25,7 +25,7 @@
 &emsp;
 
 <p align="center">
-<a href=https://rentry.co/rxquiem>rentry</a>&emsp;&emsp;&emsp;<a href=https://vxlenfield.atabook.org/>ata</a>&emsp;&emsp;&emsp;<a href=https://harrymxson.straw.page>straw</a>
+<a href=https://rentry.co/rxquiem>rentry</a>&emsp;&emsp;&emsp;<a href=https://joestarss.atabook.org/>ata</a>&emsp;&emsp;&emsp;<a href=https://harrymxson.straw.page>straw</a>
 
 
 <p align="center" dir="auto">
