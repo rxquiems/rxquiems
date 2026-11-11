@@ -1,6 +1,6 @@
 
  <p align="center">
-  &emsp;&emsp;⠀<img src="https://komarev.com/ghpvc/?username=rxquiems&style=flat&color=2c2623&label=♱&abbreviated=true">
+  &emsp;&emsp;⠀<img src="https://komarev.com/ghpvc/?username=rxquiems&style=flat&color=BF6DB0&label=𖹭&abbreviated=true">
 </a>
 
 <p align="center">
@@ -27,10 +27,11 @@
 &emsp;
 
 <p align="center" dir="auto">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ellerzbngs5de3pe7q6zgz5zny&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=4d3636&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" style="max-width: 100%;"></a>
+  &emsp;&emsp;<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ellerzbngs5de3pe7q6zgz5zny&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=4d3636&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" style="max-width: 100%;"></a>
 
 
 &emsp;
-<p align="center"> <a href=https://github.com/title-town>title-town!</a>
+<p align="center">
+ &emsp;&emsp;<a href=https://github.com/title-town>title-town!</a>
  
 &emsp;
