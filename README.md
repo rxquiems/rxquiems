@@ -22,7 +22,7 @@
  &emsp;
 
 <p align="center">
-&emsp;⠀<a href=https://rentry.co/rxquiem>rentry</a>&emsp;&emsp;&emsp;<a href=https://joestarss.atabook.org/>ata</a>&emsp;&emsp;&emsp;<a href=https://harrymxson.straw.page>straw</a>
+ &emsp;⠀ <a href=https://rentry.co/rxquiem>rentry</a>&emsp;&emsp;&emsp;<a href=https://joestarss.atabook.org/>ata</a>&emsp;&emsp;&emsp;<a href=https://harrymxson.straw.page>straw</a>
 
 &emsp;
 
