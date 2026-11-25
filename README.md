@@ -15,7 +15,7 @@
 <p align="center"><p align="center"> 
 ﹒ &emsp;　𓏼　&emsp;astrid&emsp;/&emsp; olivia&emsp;   <img src="https://64.media.tumblr.com/2bc92dcf9eabf522c4748c8451bcb6fc/b834ea3a1a260bcf-f0/s75x75_c1/f13219362c6ad0e4b564df147903ffc72f39f79d.gifv">  &emsp;  .
  <p align="center">
-  ◟　<img width="20" height="20" src="https://64.media.tumblr.com/00a4e5915452afecc6b6e566367d626f/b834ea3a1a260bcf-01/s75x75_c1/136e19b39904576fd138d496ffc341442d17c4e7.gifv">&emsp;&emsp; audhd &emsp; ◡◡ &emsp; infp &emsp;&emsp;۶۟ৎ
+  <img width="20" height="20" src="https://64.media.tumblr.com/00a4e5915452afecc6b6e566367d626f/b834ea3a1a260bcf-01/s75x75_c1/136e19b39904576fd138d496ffc341442d17c4e7.gifv">&emsp;&emsp; audhd &emsp; ◡◡ &emsp; infp &emsp;&emsp;۶۟ৎ
 
 
  &emsp;
