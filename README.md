@@ -4,7 +4,7 @@
 </a>
 
 <p align="center">
- ⠀<img width="527" height="473" alt="1000030717" src="https://file.garden/ap9UuybOrgxkDmnW/1000030717-removebg-preview.png" />
+ ⠀<img width="439" height="569" alt="1000031292" src="https://github.com/user-attachments/assets/6b17bf5a-e570-47a6-9fe0-9de30d095955" />
 
 
 &emsp;
