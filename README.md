@@ -1,6 +1,6 @@
 
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rxquiems&style=flat&color=E08FBA&label=𖹭&abbreviated=true">
+  　<img src="https://komarev.com/ghpvc/?username=rxquiems&style=flat&color=E08FBA&label=𖹭&abbreviated=true">
 </a>
 
 <p align="center"><img width="439" height="569" alt="1000031298" src="https://github.com/user-attachments/assets/f7cc0611-21fd-40fb-a925-93800aa98e0b" />
