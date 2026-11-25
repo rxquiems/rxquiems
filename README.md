@@ -1,6 +1,6 @@
 
  <p align="center">
-  &emsp;&emsp;⠀<img src="https://komarev.com/ghpvc/?username=rxquiems&style=flat&color=E08FBA&label=𖹭&abbreviated=true">
+  <img src="https://komarev.com/ghpvc/?username=rxquiems&style=flat&color=E08FBA&label=𖹭&abbreviated=true">
 </a>
 
 <p align="center">
