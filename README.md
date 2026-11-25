@@ -25,16 +25,16 @@
  &emsp;
 
 <p align="center">
- &emsp;⠀ <a href=https://rentry.co/joestxrs>rentry</a>&emsp;&emsp;&emsp;<a href=https://joestarss.atabook.org/>ata</a>&emsp;&emsp;&emsp;<a href=https://harrymxson.straw.page>straw</a>
+ <a href=https://rentry.co/joestxrs>rentry</a>&emsp;&emsp;&emsp;<a href=https://joestarss.atabook.org/>ata</a>&emsp;&emsp;&emsp;<a href=https://harrymxson.straw.page>straw</a>
 
 &emsp;
 
 <p align="center" dir="auto">
-  &emsp;⠀⠀ <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ellerzbngs5de3pe7q6zgz5zny&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=E4A150&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" style="max-width: 100%;"></a>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ellerzbngs5de3pe7q6zgz5zny&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=E4A150&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" style="max-width: 100%;"></a>
 
 
 &emsp;
 <p align="center">
- &emsp;&emsp;<a href=https://github.com/title-town>title-town!</a>
+ <a href=https://github.com/title-town>title-town!</a>
  
 &emsp;
